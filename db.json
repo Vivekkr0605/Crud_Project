@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Nice",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "earphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 200,
+      "comment": "Good",
+      "date": "2022-11-08T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Potato",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Fresh",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Onion",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 70,
+      "comment": "Farm Fresh",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Headphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 500,
+      "comment": "Nice",
+      "date": "2022-11-10T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Pineapple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "Tasty",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "Nice",
+      "date": "2022-11-09T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
